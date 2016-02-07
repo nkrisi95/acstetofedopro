@@ -4281,7 +4281,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   font-size: 18px;
   line-height: 20px;
 }
-.navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
 }
@@ -4502,7 +4501,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-brand {
   color: #777;
 }
-.navbar-default .navbar-brand:hover,
+.navbar-default,
 .navbar-default .navbar-brand:focus {
   color: #5e5e5e;
   background-color: transparent;
@@ -4598,7 +4597,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-brand {
   color: #9d9d9d;
 }
-.navbar-inverse .navbar-brand:hover,
+.navbar-inverse,
 .navbar-inverse .navbar-brand:focus {
   color: #fff;
   background-color: transparent;

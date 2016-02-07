@@ -66,6 +66,8 @@ hr {
     margin: 15px 0;
 }
 
+
+
 .brand-name {
     margin: 0;
     font-size: 4em;
@@ -82,6 +84,38 @@ hr {
     padding: 30px 15px;
     background: #fff;
     background: rgba(255,255,255,0.9);
+}
+
+h5 {
+  font-size: 1em;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.tel {
+  color: #00FF00;
+}
+
+.tel:hover {
+  color: #00E500;
+    text-decoration: none;
+}
+
+.height {
+  min-height: 148px;
+}
+
+.col-lg-6 {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.alone {
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 20px;
 }
 
 .intro-text {
@@ -150,7 +184,6 @@ footer p {
         padding: 0 0 40px;
         text-align: center;
         text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-        text-transform: uppercase;
         font-size: 1.25em;
         font-weight: 400;
         letter-spacing: 3px;
