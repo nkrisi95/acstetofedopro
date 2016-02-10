@@ -86,7 +86,7 @@ hr {
     background: rgba(255,255,255,0.9);
 }
 
-h5 {
+h2 {
   font-size: 1em;
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 400;
@@ -103,8 +103,8 @@ h5 {
     text-decoration: none;
 }
 
-.height {
-  min-height: 148px;
+.street {
+  margin-left: 3.8em;
 }
 
 .col-lg-6 {
