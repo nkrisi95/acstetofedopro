@@ -78,6 +78,14 @@ hr {
     border-color: #999999;
 }
 
+.fa {
+  margin-left: 10px;
+}
+
+.fa-phone {
+  font-size: 20px;
+}
+
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
